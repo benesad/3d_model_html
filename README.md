@@ -1,1 +1,3 @@
-3d_model_html
+Semestrální práce na předmět Distribuce prostorových dat.
+
+
